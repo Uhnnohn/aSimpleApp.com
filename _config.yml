@@ -1,0 +1,19 @@
+name: "" 
+description: "Learning mobile app development one step at a time." 
+url: "[http://localhost:4000/]" 
+paginate: 10
+
+name: a Simple App
+markdown: redcarpet
+pygments: true
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-44982077-1'
+
+      
