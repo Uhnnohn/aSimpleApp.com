@@ -27,6 +27,7 @@ Blog Maintenance
 ### To Do
 * Change layout to be different from Jekyll default
 * Create favicon
+* look into moving site to GitHub Pages
 
  
 

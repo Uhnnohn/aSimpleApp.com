@@ -12,7 +12,7 @@ categories: process
 ***
 
 * 10/22/2013 (1.5 hours)
-	* aSimpleApp.com tweaking
+	* 1.5 aSimpleApp.com site tweaking
 
 
 
