@@ -11,7 +11,8 @@ categories: process
 ## Time In Hours
 ***
 
-* 10/22/2013 (0 hours)
+* 10/22/2013 (1.5 hours)
+	* aSimpleApp.com tweaking
 
 
 

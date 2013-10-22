@@ -10,18 +10,24 @@ categories: tasklists
 Acronym App
 ***
 
-* List Here
+### To Do
+* Create initial kitchen sink list of all the possible functionality that could be added.
 
 ***
 Learning
 ***
 
-* List Here
+### To Do
+* Determine tutorial books and learning schedule
 
 ***
 Blog Maintenance
 ***
 
-* List Here
+### To Do
+* Change layout to be different from Jekyll default
+* Create favicon
+
+ 
 
 
