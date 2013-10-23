@@ -11,21 +11,25 @@ categories: process
 ## Time In Hours
 ***
 
-* 10/22/2013 (1.5 hours)
+
+* 10/23/2013 Wednesday (0 hours)
+
+
+
+* 10/22/2013 Tuesday  (2.5 hours)
 	* 1.5 aSimpleApp.com site tweaking
+	* 1.0 Objective-C Tutorial/Learning
 
-
-
-* 10/21/2013 (2 hours)
+* 10/21/2013 Monday (2 hours)
 	* 1.00	Get Jekyll code into git (a little learning, see todays TTD)
 	* 1.00	Sync local site with remote aSimpleApp.com (use Dreamweaver temporarily)
 
-* 10/20/2013 (2 hours)
+* 10/20/2013 Sunday (2 hours)
 	* 1.00	Set up this Time And Costs page
 	* 0.25	Add two daily To Do List posts
 	* 0.75  Get Dreamweaver set up on Macbook Air
 
-* 10/19/2013 (5 hours)
+* 10/19/2013 Saturday (5 hours)
 	* 1.25	Get new website setup on host 
 	* 0.75	Read up on getting Google Analytics set up with Jekyll 
 	* 3.00	Install Jekyll (sudo gem install jekyll) It`s slow 
