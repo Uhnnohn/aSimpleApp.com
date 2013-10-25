@@ -11,9 +11,11 @@ categories: process
 ## Time In Hours
 ***
 
+* 10/22/2013 Thursday  (3.0 hours)
+	* 3.0 OS Mavericks rollback - Check Drive Failing - Lesson Learned
+
 
 * 10/23/2013 Wednesday (0 hours)
-
 
 
 * 10/22/2013 Tuesday  (2.5 hours)
